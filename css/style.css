@@ -1,0 +1,14 @@
+p{
+    font-size: 2rem;
+    text-transform: capitalize;
+    font-weight: 400;
+    clear: both;
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 6rem;
+    font-weight: 700;
+    margin: 0;
+}
+
